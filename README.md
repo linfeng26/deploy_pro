@@ -15,3 +15,4 @@ pip install uvicorn
 pip install fastapi
 and then...
 follow your error and install those packages
+具体细节看飞书0.0 写累了 休息会儿
